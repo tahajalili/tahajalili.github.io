@@ -5,11 +5,12 @@
     "copyright":"Taha Jalili",
     "socialMedia": {
         "Twitter": "https://twitter.com/TheGuyFromSJ",
-        "LinkedIn": "https://www.linkedin.com/in/tahajalili"
+        "LinkedIn": "https://www.linkedin.com/in/tahajalili",
+        "Medium": "https://ethanjll.medium.com/"
         
     },
     "about": {
-        "year": "7th-year",
+        "year": "3rd-year",
         "department": {
             "name": "Faculty of Engineering",
             "link": "https://www.uottawa.ca/faculty-engineering/"
@@ -18,21 +19,13 @@
             "name": "University Of Ottawa",
             "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
         },
-        "advisor": {
-            "name": "Albus Dumbledor",
-            "link": "https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
-        },
         "email": "taha.jalili[AT]uottawa[DOT]ca",
         "interest": "Cryptography; Number Theory; Algorithms;"
     },
     "love": "https://harrypotter.fandom.com/wiki/James_and_Lily_Potter",
-    "education": [
+    "education": [    
         {
-            "name": "The Auror Department(2007-2008, Visiting Scholar)",
-            "link": "https://harrypotter.fandom.com/wiki/British_Auror_Office"
-        },
-        {
-            "name": "Hogwarts Primary University(1911-1988, Bachelor's in Magic)",
+            "name": "University Of Ottawa(2021-2025)",
             "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
         }
     ]
