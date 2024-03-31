@@ -1,29 +1,29 @@
 {
-    "title": "Harry Potter",
-    "name": "Harry James Potter",
+    "title": "Taha Jalili",
+    "name": "Taha (Ethan) Jalili",
     "domain":"https://nextjs-academic-theme.vercel.app/",
-    "copyright":"harrypotter.me",
+    "copyright":"Taha Jalili",
     "socialMedia": {
-        "Twitter": "https://twitter.com/",
-        "LinkedIn": "https://www.linkedin.com/",
-        "GoogleScholar": "https://scholar.google.com/"
+        "Twitter": "https://twitter.com/TheGuyFromSJ",
+        "LinkedIn": "https://www.linkedin.com/in/tahajalili"
+        
     },
     "about": {
         "year": "7th-year",
         "department": {
-            "name": "Gryffindor",
-            "link": "https://harrypotter.fandom.com/wiki/Gryffindor"
+            "name": "Faculty of Engineering",
+            "link": "https://www.uottawa.ca/faculty-engineering/"
         },
         "college": {
-            "name": "Hogwarts School of Witchcraft and Wizardry",
+            "name": "University Of Ottawa",
             "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
         },
         "advisor": {
             "name": "Albus Dumbledor",
             "link": "https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
         },
-        "email": "harrypotter AT MyUniversity",
-        "interest": "Defense against Dark Arts Spell; Dark Creatures"
+        "email": "taha.jalili[AT]uottawa[DOT]ca",
+        "interest": "Cryptography; Number Theory; Algorithms;"
     },
     "love": "https://harrypotter.fandom.com/wiki/James_and_Lily_Potter",
     "education": [
