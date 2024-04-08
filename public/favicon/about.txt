@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Trirong
+- Font Author: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)
+- Font Source: https://fonts.gstatic.com/s/trirong/v15/7r3GqXNgp8wxdOdOr4wi2aZg-ug.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

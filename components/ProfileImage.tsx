@@ -7,12 +7,14 @@ const ProfileImage = (): JSX.Element => {
 
         <div>
             <Image
-                className="rounded-full select-none transition-all pointer-events-none"
+                className="select-none transition-all pointer-events-none"
                 src="/images/me.jpg"                            
                 draggable={false}
                 alt="My profile image"
                 width={260}
                 height={260}/>
+
+            <p className="text-xs text-gray-600 text-center">Having coffee at my fav spot in Ottawa.</p>
 
         </div>
     );
